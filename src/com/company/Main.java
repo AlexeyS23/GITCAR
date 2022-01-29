@@ -7,9 +7,9 @@ public class Main {
 
     CarBasic car=new CarBasic();
     car.color="green";
-    car.door="3";
-    car.engine="54444cc";
-    car.number="789";
+    car.door="4";
+    car.engine="544441111111111cc";
+    car.number="7898888888";
         System.out.println(car.color);
 }
 }
